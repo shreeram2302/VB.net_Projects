@@ -1,2 +1,2 @@
 # VB.net_Projects
-VB.net Projects
+VB.net mini Projects
